@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ConfiguraçãoPersonagem</string>
+    <string name="label_titulo">Crie seu personagem</string>
+    <string name="label_nome">Nome do personagem</string>
+    <string name="label_sexo">Sexo</string>
+    <string name="label_masculino">É binino</string>
+    <string name="label_feminino">É binina</string>
+    <string name="label_hemafro">Hemafro</string>
+    <string name="label_rodape">Desenvolvido por Lucas Quincoses Toledo</string>
+    <string name="label_classe">Classe</string>
+    <string name="funkeiro">Funkeiro</string>
+    <string name="punk">Punk</string>
+    <string name="grunge">Grunge</string>
+    <string name="pagodeiro">Pagodeiro</string>
+    <string name="rapper">Rapper</string>
+    <string name="label_forca">Força</string>
+    <string name="label_vai">Vai</string>
+
+</resources>

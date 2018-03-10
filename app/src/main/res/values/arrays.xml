@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="estilo">
+        <item>@string/funkeiro</item>
+        <item>@string/punk</item>
+        <item>@string/grunge</item>
+        <item>@string/pagodeiro</item>
+        <item>@string/rapper</item>
+    </string-array>
+
+</resources>
