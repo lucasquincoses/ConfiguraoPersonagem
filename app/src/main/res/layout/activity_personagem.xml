@@ -104,12 +104,14 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="0"
+                android:id="@+id/tvForca"
                 android:gravity="right"/>
 
             <SeekBar
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/sbForca"/>
+                android:id="@+id/sbForca"
+                android:max = "15"/>
 
             <Button
                 android:layout_width="match_parent"
